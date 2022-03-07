@@ -1,10 +1,9 @@
 
-<script>
 var female = ['Akosua','Adwoa','Abenaa','Akua','Yaa','Afuna','Ama'];
 var male = ['Kwasi','Kwadwo','Kwabena','Kwaku','Yaw','Kofi','Kwame'];
 function mysubmit(){
 	let c,y,m,d;
-	let sex = document.registration.sex.value;
+	let sex= document.registration.sex.value;
 	let date = document.registration.birthday.value;
 	let cc = Number(date.charAt(0) + date.charAt(1));
 	let yy = Number(date.charAt(2) + date.charAt(3));
@@ -24,5 +23,5 @@ function mysubmit(){
 		alert('Your Akan name is '+female[dayofweek]);
 	}
 }
-</script>
+
 
