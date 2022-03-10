@@ -8,8 +8,8 @@ The author is Neema Minage
  Clone or download this repository to your local machine
  run the website and input your birthdate to find your name
  
-link
-https://github.com/N-Minage/week-2-IP.git
+Live link
+ https://n-minage.github.io/week-2-IP/
 
 
 User Inputs the birthdate
