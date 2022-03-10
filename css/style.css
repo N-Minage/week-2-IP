@@ -1,5 +1,5 @@
 body {
-    background: url(../images/white.jpeg) rgba(0, 0, 0, 0.2);
+    background: url(white.jpeg) rgba(0, 0, 0, 0.2);
     /* background-position: center; */
     /* background-repeat: no-repeat; */
     /* background-size: cover; */
@@ -10,65 +10,9 @@ body {
     color: black;
 }
 
-.header h3 {
-    padding: 15px;
-    font-weight: 700;
-    font-size: xx-large;
-}
-
-.header img {
-    float: left;
-    margin-left: 0;
-    border-radius: 50%;
-    width: 80px;
-    height: 80px;
-}
-
 .info p {
     font-size: larger;
     font-weight: 400;
-}
-
-.tg {
-    border-collapse: collapse;
-    border-spacing: 0;
-}
-
-.tg td {
-    border-color: black;
-    border-style: solid;
-    border-width: 1px;
-    font-family: Arial, sans-serif;
-    font-size: 14px;
-    overflow: hidden;
-    padding: 10px 5px;
-    word-break: normal;
-}
-
-.tg th {
-    border-color: black;
-    border-style: solid;
-    border-width: 1px;
-    font-family: Arial, sans-serif;
-    font-size: 14px;
-    font-weight: normal;
-    overflow: hidden;
-    padding: 10px 5px;
-    word-break: normal;
-}
-
-.tg .tg-baqh {
-    text-align: center;
-    vertical-align: top
-}
-
-form {
-    text-align: left;
-    border-radius: 10px;
-    background: url(../images/greyscale.jpeg);
-    padding: 20px;
-    width: 80%;
-    margin-left: 25%;
 }
 
 legend {
